@@ -7,4 +7,5 @@
 # pip install bs4
 # git clone https://github.com/cheking07/IG-CRACK
 # cd IG-CRACK
+# git pull
 # python igcrk.py
